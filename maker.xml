@@ -1,0 +1,10 @@
+<docxmltype OpenXML/>
+<openxml>
+  <on/whileupload>
+    <run 
+      file="server.js"
+      file="server.ks"
+      file="server.bs"
+    />
+  </on/whileupload>
+</openxml>
